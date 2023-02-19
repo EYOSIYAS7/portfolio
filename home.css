@@ -613,7 +613,18 @@ hr {
         display: block;
       
     } */
-
+  body p {
+    font-size: small;
+  }
+  #name {
+    width: 300px;
+  }
+  .intro h1 {
+    font-size: 60px;
+  }
+  .intro {
+    width: fit-content;
+  }
   .menu-btn {
     display: block;
     background: #454545;
@@ -627,7 +638,36 @@ hr {
   .menu-btn.active .bar:nth-child(3) {
     transform: translateY(-8px) rotate(-45deg);
   }
-
+  .svgcontanier {
+    display: none;
+  }
+  #env {
+    display: none;
+  }
+  .absvg img {
+    margin-left: 90px;
+    margin-bottom: 20px;
+    width: 250px;
+  }
+  .introcontanier {
+    margin-left: -80px;
+  }
+  .sktitle {
+    margin-left: -20px;
+  }
+  .skillz li {
+    margin-left: -0px;
+  }
+  .headingicon {
+    margin-left: -2px;
+  }
+  .proj1 img {
+    width: 350px;
+    margin-left: -20px;
+  }
+  .proj1 p {
+    font-size: medium;
+  }
   .link_contanier {
     position: fixed;
     left: -100%;
