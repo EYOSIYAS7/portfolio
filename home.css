@@ -75,6 +75,11 @@ html {
 }
 .homepage {
   margin-top: 70px;
+  background-image: url(" 23f88b80-ed18-11e9-8a21-0a636b193f08.gif ");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-attachment: fixed;
 }
 .title {
   margin-top: 80px;
